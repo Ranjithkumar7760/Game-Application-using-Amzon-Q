@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+python-dotenv
+faiss-cpu
+fastapi
+uvicorn
+pygame==2.5.2
