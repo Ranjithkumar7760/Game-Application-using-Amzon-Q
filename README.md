@@ -1,4 +1,4 @@
-# Fruit Catcher Game
+# Fruit Catcher Games
 
 A simple 3D-like fruit catching game built with Python and Pygame.
 
